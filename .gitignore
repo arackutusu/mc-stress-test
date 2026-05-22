@@ -1,0 +1,9 @@
+*.jar
+*.zip
+*.exe
+*.log
+__pycache__/
+.env
+proxies.txt
+urls.txt
+XDDOS-source/
